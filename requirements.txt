@@ -1,0 +1,6 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+python-multipart>=0.0.6
+# Sentric Engine'in kurulu olması gerekir.
+# Geliştirme ortamı için:
+# -e ../sentric-engine
